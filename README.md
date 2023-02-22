@@ -1,4 +1,4 @@
-### Hello, My name is Shiblu Ahmed. I am a junior font end devloper.
+### Hello, My name is Shiblu Ahmed. I am a junior font end developer.
 
 <!--
 **shibluahmed01/shibluahmed01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
