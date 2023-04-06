@@ -15,4 +15,3 @@ Skills: VUEJS / JAVASCRIPT/ SASS / HTML / CSS/ NUXTJS / GIT / GITHUB /FIREBASE
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/shibluahmed01&show_icons=true)  
