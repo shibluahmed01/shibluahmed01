@@ -4,7 +4,7 @@
 
 I am an aspiring front-end developer, skilled in, HTML, CSS, Sass, JavaScript, Vue.js, and Git. I am passionate about creating user-friendly and visually appealing web experiences. In my free time, I enjoy working on personal coding projects and expanding my skill set through online courses. I am dedicated to continually improving my craft and delivering high-quality work. I am excited to contribute to the ever-evolving world of web development.
 
-Skills: VUEJS / JAVASCRIPT/ SASS / HTML / CSS/ NUXTJS / GIT / GITHUB
+Skills: VUEJS / JAVASCRIPT/ SASS / HTML / CSS/ NUXTJS / GIT / GITHUB /FIREBASE
 
 - 🔭 I’m currently working on CONNEKT STUDIO 
 - 🌱 I’m currently learning Intern Ship 
