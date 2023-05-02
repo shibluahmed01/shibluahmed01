@@ -1,6 +1,6 @@
 ### Hello, My name is Shiblu Ahmed
 #### I am a junior font end web-developer
-![I am a junior font end web-developer](https://media.licdn.com/dms/image/D5616AQGAz300eh43Mw/profile-displaybackgroundimage-shrink_350_1400/0/1676994775739?e=1682553600&v=beta&t=cJWE1DDc23QT546GOFWkLEF2DniXmOl9Jv0GFIpnuqs)
+![I am a junior font end web-developer]([https://media.licdn.com/dms/image/D5616AQGAz300eh43Mw/profile-displaybackgroundimage-shrink_350_1400/0/1676994775739?e=1682553600&v=beta&t=cJWE1DDc23QT546GOFWkLEF2DniXmOl9Jv0GFIpnuqs](https://media.licdn.com/dms/image/D5616AQGAz300eh43Mw/profile-displaybackgroundimage-shrink_350_1400/0/1676994775739?e=1688601600&v=beta&t=bURRwrJTLgrIU4GhvPESeqGxj9u03kb8yW675zO6AwM)
 
 I am an aspiring front-end developer, skilled in, HTML, CSS, Sass, JavaScript, Vue.js, and Git. I am passionate about creating user-friendly and visually appealing web experiences. In my free time, I enjoy working on personal coding projects and expanding my skill set through online courses. I am dedicated to continually improving my craft and delivering high-quality work. I am excited to contribute to the ever-evolving world of web development.
 
