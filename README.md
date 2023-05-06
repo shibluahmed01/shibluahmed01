@@ -7,8 +7,7 @@ I am an aspiring front-end developer, skilled in, HTML, CSS, Sass, JavaScript, V
 Skills: VUEJS / JAVASCRIPT/ SASS / HTML / CSS/ NUXTJS / GIT / GITHUB /FIREBASE
 
 - 🔭 I’m currently working on CONNEKT STUDIO 
-- 🌱 I’m currently learning Intern Ship 
-- 👯 I’m looking to collaborate on APOLLO-HMS     
+- 🌱 I’m currently Intern Ship    
 - 🔭 How to reach me https://twitter.com/shibluahmed01    
 - 🔭 Just fun: I have hugh Muvi
 
