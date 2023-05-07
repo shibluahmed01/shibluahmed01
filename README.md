@@ -8,7 +8,7 @@ Skills: VUEJS / JAVASCRIPT/ SASS / HTML / CSS/ NUXTJS / GIT / GITHUB /FIREBASE
 
 - 🔭 I’m currently working on CONNEKT STUDIO 
 - 🌱 I’m currently Intern Ship    
-- 🔭 How to reach me [https://twitter.com/shibluahmed01](https://www.linkedin.com/in/shibluahmed01/]   
+- 🔭 How to reach me [https://www.linkedin.com/in/shibluahmed01/]   
 - 🔭 Just fun: I have hugh Muvi
 
 
